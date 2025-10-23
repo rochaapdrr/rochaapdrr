@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Pedro Rocha
+#  Olá, eu sou Pedro Rocha
 
 Sou um **entusiasta de TI e Ciência de Dados** em início de carreira, com paixão por programação, análise de dados e design.  
 Mesmo sem experiência formal, estou desenvolvendo habilidades por meio de **certificações, estudos e projetos práticos** na Alura e projetos próprios.
