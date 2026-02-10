@@ -15,7 +15,7 @@ Mesmo sem experiência formal, estou desenvolvendo habilidades por meio de **cer
 
 ---
 
-## 🏅 Certificações (Alura)
+## 🏅 Certificados (Alura)
 
 - Python, Ciência de Dados, HTML, CSS, JavaScript, Protagonismo de Carreira 
 - Projetos práticos aplicando conceitos de **Data Science**, **Back-End** e **Front-End**  
