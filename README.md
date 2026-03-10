@@ -1,60 +1,137 @@
-#  Olá, eu sou Pedro Rocha
+# 👋 Olá, eu sou Pedro Rocha
 
-Sou um **entusiasta de TI e Ciência de Dados** em início de carreira, com paixão por programação, análise de dados e design.  
-Mesmo sem experiência formal, estou desenvolvendo habilidades por meio de **certificações, estudos e projetos práticos** na Alura e projetos próprios.
+🎓 Estudante e entusiasta de **ADS e Ciência de Dados**, focado em desenvolver habilidades em **análise de dados, programação e machine learning**.
 
----
+Atualmente estou construindo minha base através de **certificações, estudos e projetos práticos**, principalmente com Python e ferramentas de análise de dados.
 
-## 💻 Tecnologias & Habilidades
-
-| Linguagens | Ferramentas & Frameworks | Banco de Dados | Design |
-|------------|-------------------------|----------------|--------|
-| Python 🐍 | Pandas 📊 | SQL | Figma 🎨 |
-| HTML & CSS 🌐 | Matplotlib 📈 | PostgreSQL | UI/UX |
-| JavaScript ⚡ | Git/GitHub | - | - |
+Meu objetivo é ingressar na área de **Dados ou Tecnologia**, contribuindo com soluções baseadas em dados e evoluindo continuamente como profissional.
 
 ---
 
-## 🏅 Certificados (Alura)
+# 🚀 Tecnologias & Ferramentas
 
-- Python, Ciência de Dados, HTML, CSS, JavaScript, Protagonismo de Carreira 
-- Projetos práticos aplicando conceitos de **Data Science**, **Back-End** e **Front-End**  
+### 💻 Linguagens
+- Python 🐍
+- JavaScript
+- HTML & CSS
 
----
+### 📊 Data Science & Análise de Dados
+- Pandas
+- Matplotlib
+- NumPy
+- Scikit-learn 
 
-## 🏗️ Projetos em Destaque
+### 🗄️ Banco de Dados
+- SQL
+- PostgreSQL
+- MySQL
+- NoSQL
 
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|------------|
-| **[AluraStore](https://github.com/rochaapdrr/Challenge---AluraStore)** | Análise de desempenho de lojas com Python e Matplotlib | Python, Pandas, Matplotlib |
-| **Número secreto** | Jodo de adivinhação do número secreto que a máquina escolher  | JavaScript, HTML, CSS |
-| **Amigo Secreto** | Jogo aonde o usuário adiciona nomes de colegas em uma lista e a máquina determina um para ser escolhido aleatoriamente | Javascript, HTML, CSS |
+### 🛠️ Ferramentas
+- Git & GitHub
+- VSCode
+- Google Colab
 
-
-> Confira todos os meus projetos no meu GitHub: [github.com/rochaapdrr](https://github.com/rochaapdrr)
-
----
-
-## 🎯 Objetivo Profissional
-
-Meu objetivo é ingressar na **área de TI e Ciência de Dados**, aplicando meus conhecimentos em projetos reais e contribuindo com soluções práticas.  
-Estou aberto a **estágios, oportunidades de aprendizado e projetos colaborativos**.
-
----
-
-## 📫 Contato
-
-- LinkedIn: [linkedin.com/in/pedro-oliveira-rocha](www.linkedin.com/in/pedro-oliveira-rocha)  
-- GitHub: [github.com/rochaapdrr](https://github.com/rochaapdrr)  
-- Email: rochaapdr@gmail.com  
+### 🎨 Design
+- Figma
+- UI/UX
 
 ---
 
-## 🔗 Badges 
+# 🏗️ Projetos em Destaque
+
+### 📊 [TelecomX — Churn Prediction](https://github.com/rochaapdrr)
+
+Projeto de **Machine Learning** para prever evasão de clientes em uma empresa de telecomunicações.
+
+Tecnologias utilizadas:
+
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib
+
+---
+
+### 🛒 [AluraStore](https://github.com/rochaapdrr/Challenge---AluraStore)
+
+Projeto de **análise de desempenho de lojas**, explorando dados de vendas para gerar insights.
+
+Tecnologias utilizadas:
+
+- Python
+- Pandas
+- Matplotlib
+
+---
+
+### 🎮 Número Secreto
+
+Jogo onde o usuário tenta adivinhar o número escolhido pela máquina.
+
+Tecnologias utilizadas:
+
+- JavaScript
+- HTML
+- CSS
+
+---
+
+### 🎁 Amigo Secreto
+
+Aplicação web onde o usuário adiciona nomes e o sistema realiza um sorteio aleatório.
+
+Tecnologias utilizadas:
+
+- JavaScript
+- HTML
+- CSS
+
+---
+
+# 🎓 Certificados
+
+Cursos realizados principalmente pela **Alura**, focados em desenvolvimento e dados:
+
+- Python para Data Science
+- HTML e CSS
+- JavaScript
+- Análise de Dados
+- Protagonismo de Carreira
+
+---
+
+# 🎯 Objetivo Profissional
+
+Busco oportunidades para iniciar minha carreira na área de **Tecnologia ou Ciência de Dados**, onde eu possa:
+
+- aplicar conhecimentos em projetos reais
+- aprender com profissionais experientes
+- desenvolver soluções baseadas em dados
+
+Estou aberto a **estágios, programas de formação e oportunidades de aprendizado**.
+
+---
+
+# 📫 Contato
+
+💼 LinkedIn  
+www.linkedin.com/in/pedro-oliveira-rocha  
+
+🐙 GitHub  
+https://github.com/rochaapdrr  
+
+📧 Email  
+rochaapdr@gmail.com  
+
+---
+
+# 🔗 Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
