@@ -1,33 +1,33 @@
-# 👋 Olá, eu sou Pedro Rocha
+# Pedro Rocha
 
-🎓 Estudante e entusiasta de **ADS e Ciência de Dados**, focado em desenvolver habilidades em **análise de dados, programação e machine learning**.
+ Estudante de **ADS e Ciência de Dados**, focado em desenvolver habilidades em **programação e machine learning**.
 
-Atualmente estou construindo minha base através de **certificações, estudos e projetos práticos**, principalmente com Python e ferramentas de análise de dados.
+Atualmente estou construindo minha base através de **certificações, estudos e projetos práticos**, principalmente com Java e Spring boot, Python e ferramentas de análise de dados.
 
-Meu objetivo é ingressar na área de **Dados ou Tecnologia**, contribuindo com soluções baseadas em dados e evoluindo continuamente como profissional.
+Meu objetivo é ingressar na área de **Backend ou FullStack**, contribuindo com soluções baseadas em dados e evoluindo continuamente como profissional.
 
 ---
 
-# 🚀 Tecnologias & Ferramentas
+# Tecnologias & Ferramentas
 
-### 💻 Linguagens
-- Python 🐍
+### Linguagens
+- Java
+- Python 
 - JavaScript
 - HTML & CSS
 
-### 📊 Data Science & Análise de Dados
+### Data Science & Análise de Dados
 - Pandas
 - Matplotlib
 - NumPy
 - Scikit-learn 
 
-### 🗄️ Banco de Dados
+### Banco de Dados
 - SQL
 - PostgreSQL
-- MySQL
 - NoSQL
 
-### 🛠️ Ferramentas
+### Ferramentas
 - Git & GitHub
 - VSCode
 - Google Colab
@@ -38,9 +38,9 @@ Meu objetivo é ingressar na área de **Dados ou Tecnologia**, contribuindo com 
 
 ---
 
-# 🏗️ Projetos em Destaque
+# Projetos em Destaque
 
-### 📊 [TelecomX — Churn Prediction](https://github.com/rochaapdrr)
+### [TelecomX — Churn Prediction](https://github.com/rochaapdrr)
 
 Projeto de **Machine Learning** para prever evasão de clientes em uma empresa de telecomunicações.
 
@@ -53,7 +53,7 @@ Tecnologias utilizadas:
 
 ---
 
-### 🛒 [AluraStore](https://github.com/rochaapdrr/Challenge---AluraStore)
+### [AluraStore](https://github.com/rochaapdrr/Challenge---AluraStore)
 
 Projeto de **análise de desempenho de lojas**, explorando dados de vendas para gerar insights.
 
@@ -65,7 +65,7 @@ Tecnologias utilizadas:
 
 ---
 
-### 🎮 Número Secreto
+### Número Secreto
 
 Jogo onde o usuário tenta adivinhar o número escolhido pela máquina.
 
@@ -77,7 +77,7 @@ Tecnologias utilizadas:
 
 ---
 
-### 🎁 Amigo Secreto
+### Amigo Secreto
 
 Aplicação web onde o usuário adiciona nomes e o sistema realiza um sorteio aleatório.
 
@@ -89,7 +89,7 @@ Tecnologias utilizadas:
 
 ---
 
-# 🎓 Certificados
+# Certificados
 
 Cursos realizados principalmente pela **Alura**, focados em desenvolvimento e dados:
 
@@ -101,7 +101,7 @@ Cursos realizados principalmente pela **Alura**, focados em desenvolvimento e da
 
 ---
 
-# 🎯 Objetivo Profissional
+#  Objetivo Profissional
 
 Busco oportunidades para iniciar minha carreira na área de **Tecnologia ou Ciência de Dados**, onde eu possa:
 
